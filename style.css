@@ -19,9 +19,13 @@ h1 {
   margin-bottom: 1rem;
 }
 
+.tincho {
+  height: 10rem !important;
+}
+
 h2 {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  line-height: 3rem;
 }
 
 h3 {
